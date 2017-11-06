@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: d2fd6d58e10ee824aaea7c2465911b92
+timeCreated: 1509899852
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Assets_Menu_0
+    21300002: Assets_Menu_1
+    21300004: Assets_Menu_2
+    21300006: Assets_Menu_3
+    21300008: Assets_Menu_4
+    21300010: Assets_Menu_5
+    21300012: Assets_Menu_6
+    21300014: Assets_Menu_7
+    21300016: Assets_Menu_8
+    21300018: Assets_Menu_9
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Assets_Menu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1118
+        width: 147
+        height: 387
+      alignment: 9
+      pivot: {x: 0.50920486, y: 0.014001496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets_Menu_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1491
+        width: 413
+        height: 252
+      alignment: 9
+      pivot: {x: 0.9729883, y: 0.092836894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets_Menu_2
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1164
+        width: 353
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets_Menu_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1198
+        width: 337
+        height: 228
+      alignment: 9
+      pivot: {x: 0.9697717, y: 0.04303032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets_Menu_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 512
+        width: 355
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets_Menu_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 851
+        width: 355
+        height: 201
+      alignment: 9
+      pivot: {x: 0.016433328, y: 0.2840306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets_Menu_6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 502
+        width: 221
+        height: 258
+      alignment: 9
+      pivot: {x: 0.116079204, y: 0.025826743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets_Menu_8
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 525
+        width: 242
+        height: 138
+      alignment: 9
+      pivot: {x: 0.053804483, y: 0.028154014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets_Menu_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 810
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 109.1 16 16" enable-background="new 0 109.1 16 16" xml:space="preserve">
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="8.1" cy="117.1" r="7.8"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g transform="matrix(6.350064e-003 0 0 6.350064e-003 0.2742 109.2834)" clip-path="url(#SVGID_2_)">
+		
+			<image overflow="visible" width="2474" height="2474" xlink:href="../../banco de imagens/botões/butt 26.png"  transform="matrix(6.350064e-003 0 0 6.350064e-003 0.2742 109.2834)">
+		</image>
+	</g>
+</g>
+<path opacity="0.27" fill="#CC1212" d="M8.1,109.3c-4.3,0-7.8,3.5-7.8,7.8c0,4.3,3.5,7.8,7.8,7.8s7.8-3.5,7.8-7.8
+	C15.9,112.8,12.4,109.3,8.1,109.3z M8.1,123.4c-3.5,0-6.4-2.8-6.4-6.4s2.8-6.4,6.4-6.4s6.4,2.8,6.4,6.4S11.6,123.4,8.1,123.4z"/>
+</svg>
