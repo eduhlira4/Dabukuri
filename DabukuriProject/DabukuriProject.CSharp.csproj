@@ -78,7 +78,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\AlterarObjeto.cs" />
+    <Compile Include="Assets\Script\AutoSkip.cs" />
+    <Compile Include="Assets\Script\FecharPopup.cs" />
     <Compile Include="Assets\Script\OpenButton.cs" />
+    <Compile Include="Assets\Script\PassarScene.cs" />
+    <Compile Include="Assets\Scripts\DragMe.cs" />
+    <Compile Include="Assets\Scripts\DragPanel.cs" />
+    <Compile Include="Assets\Scripts\DropMe.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
