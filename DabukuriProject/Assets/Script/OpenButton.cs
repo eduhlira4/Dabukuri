@@ -4,14 +4,15 @@ using UnityEngine;
 
 public class OpenButton : MonoBehaviour {
 
-	//public GameObject botao;
-	private bool ativo, ativo2;
+	public GameObject pausepanel;
+	private bool ativo, ativo2, ativo3;
 
 	// Use this for initialization
 	void Start () {
 
 		ativo = false;
 		ativo2 = false;
+		ativo3 = false;
 		
 	}
 	
@@ -34,10 +35,33 @@ public class OpenButton : MonoBehaviour {
 		if (ativo2 == false) {
 			botao2.GetComponent<Animator> ().Play ("Botaoconfig");
 			ativo2 = true;
+			pausepanel.SetActive (true);
 		} else if(ativo2 == true){
 			botao2.GetComponent<Animator> ().Play ("CloseBotaoconfig");
 			ativo2 = false;
+			pausepanel.SetActive(false);
+			Time.timeScale = 1;
 		}
 
 	}
+
+	public void ButtonOpenConfig(GameObject botao3){
+		if (ativo3 == false) {
+			botao3.GetComponent<Animator> ().Play ("BotoesconfigMenu");
+			ativo3 = true;
+
+		} else if(ativo3 == true){
+			botao3.GetComponent<Animator> ().Play ("CloseBotaoconfigMenu");
+			ativo3 = false;
+
+		}
+
+	}
+
+	public void AtivarPausePanel(){
+		if (ativo2 == true) {
+			Time.timeScale = 0;
+		}
+	}
+
 }

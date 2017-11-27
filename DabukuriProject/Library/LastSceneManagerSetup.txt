@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Letra.unity
+- path: Assets/Scenes/AtividadesSilabas/AtividadeSilaba2.unity
   isLoaded: 1
   isActive: 1
