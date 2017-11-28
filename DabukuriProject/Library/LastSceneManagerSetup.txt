@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/FasesLetras/Letra.unity
+- path: Assets/Scenes/FasesSilabas/Silaba.unity
   isLoaded: 1
   isActive: 1

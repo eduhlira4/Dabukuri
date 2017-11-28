@@ -10,7 +10,7 @@ public class ControleBotoes : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		index = PlayerPrefs.GetInt ("letraSilaba");
 		letraAtiva = imagens[index];
 		trocarImagens();
 	}
