@@ -5,8 +5,10 @@
 	 viewBox="0 0 1024 768" enable-background="new 0 0 1024 768" xml:space="preserve">
 <image overflow="visible" enable-background="new    " width="2474" height="2394" xlink:href="../../../banco de imagens/botões/butt 28.png"  transform="matrix(0.2952 0 0 0.2952 148.2666 29.6664)">
 </image>
-<image overflow="visible" width="1500" height="1500" xlink:href="../../../Desenhos Jogo Yegatu/png/30.png"  transform="matrix(0.5299 0 0 0.5299 113.1838 -102)">
-</image>
 <text transform="matrix(1 0 0 1 369.9729 647.9847)" fill="#1B7C09" font-family="'Big_Bottom_Cartoon'" font-size="88.5294">Ki</text>
 <text transform="matrix(1 0 0 1 488.5901 647.9847)" fill="#010500" font-family="'Big_Bottom_Cartoon'" font-size="88.5294">wa</text>
+<path fill="#010500" d="M611.8,571.2c-4.9,2-12.6-6.1-10.6-8.6c0,0,18.1-18.5,22.8-20.6c4.7-2.2,16,8.1,13.6,11.1
+	S611.8,571.2,611.8,571.2z"/>
+<image overflow="visible" width="1500" height="1500" xlink:href="../../../Desenhos Jogo Yegatu/png/78.png"  transform="matrix(0.5665 0 0 0.5665 87.1333 -103.7334)">
+</image>
 </svg>
