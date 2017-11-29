@@ -9,9 +9,10 @@ public class DropMe : MonoBehaviour, IDropHandler, IPointerEnterHandler, IPointe
 	public Image containerImage;
 	public Image receivingImage;
 	private Color normalColor;
+	public GameObject nommeObjeto;
 	public Color highlightColor = Color.yellow;
     bool acertou = false;
-	public static int passoscertos;
+	public static int passoscertos, podepassar;
 	public void OnEnable ()
 	{
 		if (containerImage != null)
@@ -30,9 +31,12 @@ public class DropMe : MonoBehaviour, IDropHandler, IPointerEnterHandler, IPointe
         {
             if (acertou)
             {
+				Debug.Log("Acertou");
                 receivingImage.overrideSprite = dropSprite;
 				passoscertos = passoscertos+1;
-				Debug.Log("Acertou");
+				nommeObjeto.SetActive (true);
+				podepassar = 1;
+
             }
             else
             {
