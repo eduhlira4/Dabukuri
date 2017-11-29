@@ -6,6 +6,8 @@ using UnityEngine.UI;
 public class AlterarObjeto : MonoBehaviour {
 
 	public Image objeto, nomeTrocar;
+	public AudioSource tocador;
+	public AudioClip somObjetoTocar;
 
 	// Use this for initialization
 	void Start () {
@@ -23,5 +25,13 @@ public class AlterarObjeto : MonoBehaviour {
 	}
 	public void TrocarNome (Sprite Nome){
 		nomeTrocar.sprite = Nome;
+	}
+	public void MudaarSom(AudioClip somObjeto){
+		somObjetoTocar = somObjeto;
+	}
+
+	public void tocarSom(){
+		Debug.Log ("tocarosom");
+		tocador.PlayOneShot (somObjetoTocar);
 	}
 }

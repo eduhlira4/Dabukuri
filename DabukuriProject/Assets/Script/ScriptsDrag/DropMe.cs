@@ -6,6 +6,8 @@ using UnityEngine.UI;
 public class DropMe : MonoBehaviour, IDropHandler, IPointerEnterHandler, IPointerExitHandler
 {
     public string estadoCerto;
+	public AudioClip nomeTocar;
+	public AudioSource tocador;
 	public Image containerImage;
 	public Image receivingImage;
 	private Color normalColor;
@@ -35,7 +37,9 @@ public class DropMe : MonoBehaviour, IDropHandler, IPointerEnterHandler, IPointe
                 receivingImage.overrideSprite = dropSprite;
 				passoscertos = passoscertos+1;
 				nommeObjeto.SetActive (true);
+				tocador.PlayOneShot (nomeTocar);
 				podepassar = 1;
+
 
             }
             else

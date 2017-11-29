@@ -61,6 +61,7 @@
      <Compile Include="Assets\Script\ScriptsDrag\DragMe.cs" />
      <Compile Include="Assets\Script\ScriptsDrag\DragPanel.cs" />
      <Compile Include="Assets\Script\ScriptsDrag\DropMe.cs" />
+     <Compile Include="Assets\Script\TocarSom.cs" />
      <Compile Include="Assets\Script\VerificarVitoria.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
