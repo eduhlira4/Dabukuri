@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class DropMe : MonoBehaviour, IDropHandler, IPointerEnterHandler, IPointerExitHandler
 {
     public string estadoCerto;
-	public AudioClip nomeTocar;
+	public AudioClip nomeTocar, errosound;
 	public AudioSource tocador;
 	public Image containerImage;
 	public Image receivingImage;
@@ -36,15 +36,18 @@ public class DropMe : MonoBehaviour, IDropHandler, IPointerEnterHandler, IPointe
 				Debug.Log("Acertou");
                 receivingImage.overrideSprite = dropSprite;
 				passoscertos = passoscertos+1;
-				nommeObjeto.SetActive (true);
 				tocador.PlayOneShot (nomeTocar);
 				podepassar = 1;
+				nommeObjeto.SetActive (true);
+
+
 
 
             }
             else
             {
                 Debug.Log("Errou");
+				tocador.PlayOneShot (errosound);
             }
         }
 	}

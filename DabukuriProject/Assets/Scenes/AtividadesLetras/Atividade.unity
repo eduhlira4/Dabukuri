@@ -680,6 +680,11 @@ Prefab:
       propertyPath: nomeTocar
       value: 
       objectReference: {fileID: 8300000, guid: f1524f6126c486946b2c16b745bc4ad1, type: 3}
+    - target: {fileID: 114565517128850572, guid: da7af40e74213aa4aa51914fdad1f56a,
+        type: 2}
+      propertyPath: errosound
+      value: 
+      objectReference: {fileID: 8300000, guid: f11b8624c7c02e2469b0edd74344a416, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: da7af40e74213aa4aa51914fdad1f56a, type: 2}
   m_IsPrefabParent: 0
@@ -9953,6 +9958,11 @@ Prefab:
       propertyPath: nomeTocar
       value: 
       objectReference: {fileID: 8300000, guid: 930cf03e897571546a58398543d51de9, type: 3}
+    - target: {fileID: 114565517128850572, guid: da7af40e74213aa4aa51914fdad1f56a,
+        type: 2}
+      propertyPath: errosound
+      value: 
+      objectReference: {fileID: 8300000, guid: f11b8624c7c02e2469b0edd74344a416, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: da7af40e74213aa4aa51914fdad1f56a, type: 2}
   m_IsPrefabParent: 0
@@ -11330,8 +11340,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   objeto: {fileID: 1690791150}
   nomeTrocar: {fileID: 903978229}
-  tocador: {fileID: 0}
-  somObjetoTocar: {fileID: 0}
+  tocador: {fileID: 1446336670}
+  somObjetoTocar: {fileID: 8300000, guid: 748a8fb1e92768047a67fb3987cb56f2, type: 3}
 --- !u!114 &1560068165
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11377,6 +11387,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scene: Parabens
+  Tocador: {fileID: 1446336670}
+  aplausos: {fileID: 8300000, guid: 748a8fb1e92768047a67fb3987cb56f2, type: 3}
 --- !u!1 &1569832021 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1871426851713298, guid: 1b042dee617491d46bc83925769fe0df,
@@ -11853,6 +11865,11 @@ Prefab:
       propertyPath: nomeTocar
       value: 
       objectReference: {fileID: 8300000, guid: 1b6f0dce32849f140b018fe6e44faa32, type: 3}
+    - target: {fileID: 114565517128850572, guid: da7af40e74213aa4aa51914fdad1f56a,
+        type: 2}
+      propertyPath: errosound
+      value: 
+      objectReference: {fileID: 8300000, guid: f11b8624c7c02e2469b0edd74344a416, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: da7af40e74213aa4aa51914fdad1f56a, type: 2}
   m_IsPrefabParent: 0

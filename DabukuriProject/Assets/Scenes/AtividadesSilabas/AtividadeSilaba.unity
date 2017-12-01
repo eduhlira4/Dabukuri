@@ -7470,8 +7470,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   estadoCerto: DA
-  nomeTocar: {fileID: 0}
-  tocador: {fileID: 0}
+  nomeTocar: {fileID: 8300000, guid: 748a8fb1e92768047a67fb3987cb56f2, type: 3}
+  errosound: {fileID: 8300000, guid: f11b8624c7c02e2469b0edd74344a416, type: 3}
+  tocador: {fileID: 840692543}
   containerImage: {fileID: 716999175}
   receivingImage: {fileID: 557265191}
   nommeObjeto: {fileID: 1151908306}
@@ -11957,8 +11958,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   estadoCerto: KU
-  nomeTocar: {fileID: 0}
-  tocador: {fileID: 0}
+  nomeTocar: {fileID: 8300000, guid: 748a8fb1e92768047a67fb3987cb56f2, type: 3}
+  errosound: {fileID: 8300000, guid: f11b8624c7c02e2469b0edd74344a416, type: 3}
+  tocador: {fileID: 840692543}
   containerImage: {fileID: 2017127341}
   receivingImage: {fileID: 723888388}
   nommeObjeto: {fileID: 1529351469}
@@ -12628,8 +12630,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   estadoCerto: FA
-  nomeTocar: {fileID: 0}
-  tocador: {fileID: 0}
+  nomeTocar: {fileID: 8300000, guid: 748a8fb1e92768047a67fb3987cb56f2, type: 3}
+  errosound: {fileID: 8300000, guid: f11b8624c7c02e2469b0edd74344a416, type: 3}
+  tocador: {fileID: 840692543}
   containerImage: {fileID: 1057321300}
   receivingImage: {fileID: 897875386}
   nommeObjeto: {fileID: 1468702432}
@@ -14216,7 +14219,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1073895353
 RectTransform:
   m_ObjectHideFlags: 0
@@ -17625,8 +17628,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   estadoCerto: GI
-  nomeTocar: {fileID: 0}
-  tocador: {fileID: 0}
+  nomeTocar: {fileID: 8300000, guid: 748a8fb1e92768047a67fb3987cb56f2, type: 3}
+  errosound: {fileID: 8300000, guid: f11b8624c7c02e2469b0edd74344a416, type: 3}
+  tocador: {fileID: 840692543}
   containerImage: {fileID: 1024868662}
   receivingImage: {fileID: 1587426205}
   nommeObjeto: {fileID: 504687370}
@@ -17717,8 +17721,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   estadoCerto: PA
-  nomeTocar: {fileID: 0}
-  tocador: {fileID: 0}
+  nomeTocar: {fileID: 8300000, guid: 748a8fb1e92768047a67fb3987cb56f2, type: 3}
+  errosound: {fileID: 8300000, guid: f11b8624c7c02e2469b0edd74344a416, type: 3}
+  tocador: {fileID: 840692543}
   containerImage: {fileID: 953308816}
   receivingImage: {fileID: 1595711346}
   nommeObjeto: {fileID: 1079387490}
@@ -18620,8 +18625,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   estadoCerto: BA
-  nomeTocar: {fileID: 0}
-  tocador: {fileID: 0}
+  nomeTocar: {fileID: 8300000, guid: 748a8fb1e92768047a67fb3987cb56f2, type: 3}
+  errosound: {fileID: 8300000, guid: f11b8624c7c02e2469b0edd74344a416, type: 3}
+  tocador: {fileID: 840692543}
   containerImage: {fileID: 2087375084}
   receivingImage: {fileID: 1747287510}
   nommeObjeto: {fileID: 1686403574}

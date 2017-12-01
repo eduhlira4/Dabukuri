@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/SplashDabukuri.unity
+    guid: 038b66487f4a90b41918ea411554fd04
+  - enabled: 1
     path: Assets/Scenes/Splash.unity
     guid: bc9b15dc30e722b40970119f5a089af0
   - enabled: 1
@@ -32,3 +35,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AtividadesSilabas/AtividadeSilaba.unity
     guid: 31013324d825c1142a00e15e618940dd
+  - enabled: 1
+    path: Assets/Scenes/AtividadePalavra/AtividadePalavra.unity
+    guid: 5ef9209f40eaec04d903329d03a38681
+  - enabled: 1
+    path: Assets/Scenes/AtividadePalavra/AtividadePalavra2.unity
+    guid: a72b0d4b889e9e44a831339df1ac401c
+  - enabled: 1
+    path: Assets/Scenes/AtividadePalavra/AtividadePalavra3.unity
+    guid: 3e4be5fa83cf3e142a4848b35941228c

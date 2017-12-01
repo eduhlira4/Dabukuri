@@ -55,6 +55,7 @@
      <Compile Include="Assets\Script\AutoSkip.cs" />
      <Compile Include="Assets\Script\ControleAtividadeSi.cs" />
      <Compile Include="Assets\Script\ControleBotoes.cs" />
+     <Compile Include="Assets\Script\ControleFaseFinal.cs" />
      <Compile Include="Assets\Script\FecharPopup.cs" />
      <Compile Include="Assets\Script\OpenButton.cs" />
      <Compile Include="Assets\Script\PassarScene.cs" />
